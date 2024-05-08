@@ -4,6 +4,7 @@
 # Tesla Website clone with Tailwind CSS
 
 This project is a static single-page website clone of the Tesla website, built entirely using Tailwind CSS. It serves as a learning exercise to grasp the fundamentals of Tailwind CSS, a utility-first CSS framework.
+
 Link: https://shresthdwivedi.github.io/tesla-webpage/
 
 
@@ -34,7 +35,3 @@ Contributions to enhance or expand upon the project are welcome. Please fork the
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. Feel free to use and modify it according to your needs.
-
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
